@@ -7,7 +7,7 @@ http://server-d.normielista.stream/a317/mono.m3u8
 http://server-d.normielista.stream/a517/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0630" tvg-logo="https://normielista.online/Logos/azteca_internacional.png",Azteca Internacional
 http://server-d.normielista.stream/a536/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0516" tvg-logo="https://normielista.online/Logos/bandamax.png",Bandamax
+#EXTINF:-1 group-title="MUSICA" tvg-id="0516" tvg-logo="https://normielista.online/Logos/bandamax.png",Bandamax
 http://server-d.normielista.stream/a413/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0216" tvg-logo="https://normielista.online/Logos/bbc_news.png",BBC News
 http://server-d.normielista.stream/a502/mono.m3u8
@@ -21,7 +21,7 @@ http://server-d.normielista.stream/TVN_24_HORAS_1021/mono.m3u8
 http://server-d.normielista.stream/a468/mono.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-id="0315" tvg-logo="https://normielista.online/Logos/canal_infantil.png",Canal Infantil
 http://server-d.normielista.stream/a311/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0536" tvg-logo="https://normielista.online/Logos/carolina.png",Carolina TV
+#EXTINF:-1 group-title="MUSICA" tvg-id="0536" tvg-logo="https://normielista.online/Logos/carolina.png",Carolina TV
 http://server-d.normielista.stream/a418/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",Chilevision
 http://server-d.normielista.stream/ANATEL_CHILEVISION_1011/mono.m3u8
@@ -33,9 +33,9 @@ http://server-d.normielista.stream/AMX_CLARO_SPORTS-2_1125/mono.m3u8
 http://server-d.normielista.stream/a461/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://normielista.online/Logos/chilevision.png",Cnn Chile
 http://server-d.normielista.stream/WBD_CNN-CHILE_1020/mono.m3u8
-#EXTINF:-1 group-title="MUNDOS" tvg-id="0210" tvg-logo="https://normielista.online/Logos/cnn_espanol.png",CNN en Español
+#EXTINF:-1 group-title="MUNDOS" tvg-id="0210" tvg-logo="https://normielista.online/Logos/cnn_espanol.png",CNN en Espanol
 http://server-d.normielista.stream/a500/mono.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="0631" tvg-logo="https://normielista.online/Logos/az_corazon.png",AZ Corazón
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="0631" tvg-logo="https://normielista.online/Logos/az_corazon.png",AZ Corazon
 http://server-d.normielista.stream/a476/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/dsports.png",Torneos Dsports
 http://server-d.normielista.stream/VRIO_TORNEOS_DSPORTS_1126/mono.m3u8
@@ -83,7 +83,7 @@ http://server-d.normielista.stream/DSN_ESPN_PREMIUM_CHILE_1121/mono.m3u8
 http://server-d.normielista.stream/a315/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0213" tvg-logo="https://normielista.online/Logos/euronews.png",Euronews
 http://server-d.normielista.stream/a508/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0530" tvg-logo="https://normielista.online/Logos/exa_tv.png",Exa TV
+#EXTINF:-1 group-title="MUSICA" tvg-id="0530" tvg-logo="https://normielista.online/Logos/exa_tv.png",Exa TV
 http://server-d.normielista.stream/a411/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0608" tvg-logo="https://normielista.online/Logos/food_network.png",Food Network
 http://server-d.normielista.stream/a454/mono.m3u8
@@ -97,7 +97,7 @@ http://server-d.normielista.stream/MEDIAPRO_FOX_SPORTS_ARGENTINA_1134/mono.m3u8
 http://server-d.normielista.stream/MEDIAPRO_FOX_SPORTS-2_ARGENTINA_1135/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/tnt_sports_premium.png",Fox Sports 3 Argentina
 http://server-d.normielista.stream/MEDIAPRO_FOX_SPORTS-3_ARGENTINA_1136/mono.m3u8
-#EXTINF:-1 group-title="MUNDOS" tvg-id="0206" tvg-logo="https://normielista.online/Logos/france24_espanol.png",France 24 en Español
+#EXTINF:-1 group-title="MUNDOS" tvg-id="0206" tvg-logo="https://normielista.online/Logos/france24_espanol.png",France 24 en Espanol
 http://server-d.normielista.stream/a183/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/golf_channel.png",Golf Channel
 http://server-d.normielista.stream/WBD_GOLF_CHANNEL_1140/mono.m3u8
@@ -105,11 +105,11 @@ http://server-d.normielista.stream/WBD_GOLF_CHANNEL_1140/mono.m3u8
 http://server-d.normielista.stream/a473/mono.m3u8
 #EXTINF:-1 group-title="OTROS",La Red
 http://server-d.normielista.stream/ANATEL_LA-RED_1004/mono.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="0837" tvg-logo="https://normielista.online/Logos/las_estrellas.png",Las Estrellas (Sudamérica)
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="0837" tvg-logo="https://normielista.online/Logos/las_estrellas.png",Las Estrellas (Sudamerica)
 http://server-d.normielista.stream/a453/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",Megamedia
 http://server-d.normielista.stream/ANATEL_MEGAMEDIA_1009/mono.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="0121" tvg-logo="https://normielista.online/Logos/mega_ficcion.png",Mega Ficción
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="0121" tvg-logo="https://normielista.online/Logos/mega_ficcion.png",Mega Ficcion
 http://server-d.normielista.stream/a474/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://normielista.online/Logos/meganoticias.png",Meganoticias
 http://server-d.normielista.stream/MEGAMEDIA_MEGANOTICIAS_1022/mono.m3u8
@@ -117,17 +117,17 @@ http://server-d.normielista.stream/MEGAMEDIA_MEGANOTICIAS_1022/mono.m3u8
 http://server-d.normielista.stream/a463/mono.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-id="0317" tvg-logo="https://normielista.online/Logos/plim_plim.png",Plim Plim TV
 http://server-d.normielista.stream/a312/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://normielista.online/Logos/quiero_musica.png",Quiero Música en mi Idioma
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://normielista.online/Logos/quiero_musica.png",Quiero Musica en mi Idioma
 http://server-d.normielista.stream/a409/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0220" tvg-logo="https://normielista.online/Logos/rai_italia.png",RAI Italia
 http://server-d.normielista.stream/a519/mono.m3u8
-#EXTINF:-1 group-title="MUNDOS" tvg-id="0209" tvg-logo="https://normielista.online/Logos/russia_today.png",RT en Español
+#EXTINF:-1 group-title="MUNDOS" tvg-id="0209" tvg-logo="https://normielista.online/Logos/russia_today.png",RT en Espanol
 http://server-d.normielista.stream/a507/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0540" tvg-logo="https://normielista.online/Logos/rumba_tv.png",Rumba TV
+#EXTINF:-1 group-title="MUSICA" tvg-id="0540" tvg-logo="https://normielista.online/Logos/rumba_tv.png",Rumba TV
 http://server-d.normielista.stream/a417/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0637" tvg-logo="https://normielista.online/Logos/star_tve.png",Star TVE
 http://server-d.normielista.stream/a477/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0501" tvg-logo="https://normielista.online/Logos/stingray_iconcerts.png",Stingray iConcerts
+#EXTINF:-1 group-title="MUSICA" tvg-id="0501" tvg-logo="https://normielista.online/Logos/stingray_iconcerts.png",Stingray iConcerts
 http://server-d.normielista.stream/a410/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0614" tvg-logo="https://normielista.online/Logos/sun_channel.png",Sun Channel
 http://server-d.normielista.stream/a472/mono.m3u8
@@ -137,17 +137,17 @@ http://server-d.normielista.stream/C13_T13_EN_VIVO_1024/mono.m3u8
 http://server-d.normielista.stream/RDT_BIOBIO_TV_1035/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0915" tvg-logo="https://normielista.online/Logos/eltrece_internacional.png",El Trece (Argentina)
 http://server-d.normielista.stream/a526/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0508" tvg-logo="https://normielista.online/Logos/telehit_musica.png",Telehit Música
+#EXTINF:-1 group-title="MUSICA" tvg-id="0508" tvg-logo="https://normielista.online/Logos/telehit_musica.png",Telehit Musica
 http://server-d.normielista.stream/a405/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0615" tvg-logo="https://normielista.online/Logos/telemundo_internacional.png",Telemundo Internacional
 http://server-d.normielista.stream/a457/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0541" tvg-logo="https://normielista.online/Logos/telenostalgia.png",Telenostalgia
+#EXTINF:-1 group-title="MUSICA" tvg-id="0541" tvg-logo="https://normielista.online/Logos/telenostalgia.png",Telenostalgia
 http://server-d.normielista.stream/a416/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0204" tvg-logo="https://normielista.online/Logos/telesur.png",Telesur
 http://server-d.normielista.stream/a505/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/teletrak_tv.png",Teletrak Tv
 http://server-d.normielista.stream/BETHIA_TELETRAK_TV_1139/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0542" tvg-logo="https://normielista.online/Logos/tierramia.png",TierraMia
+#EXTINF:-1 group-title="MUSICA" tvg-id="0542" tvg-logo="https://normielista.online/Logos/tierramia.png",TierraMia
 http://server-d.normielista.stream/a415/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0708" tvg-logo="https://normielista.online/Logos/discovery_tlc.png",TLC
 http://server-d.normielista.stream/a462/mono.m3u8
@@ -183,7 +183,7 @@ http://server-d.normielista.stream/a512/mono.m3u8
 http://server-d.normielista.stream/a309/mono.m3u8
 #EXTINF:-1 group-title="OTROS",Coch Cdo
 http://server-d.normielista.stream/COCH_CDO_1138/mono.m3u8
-#EXTINF:-1 group-title="MUNDOS" tvg-id="0221" tvg-logo="https://normielista.online/Logos/cgtn_espanol.png",CGTN Español
+#EXTINF:-1 group-title="MUNDOS" tvg-id="0221" tvg-logo="https://normielista.online/Logos/cgtn_espanol.png",CGTN Espanol
 http://server-d.normielista.stream/a513/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0215" tvg-logo="https://normielista.online/Logos/cnn_international.png",CNN International
 http://server-d.normielista.stream/a501/mono.m3u8
@@ -191,7 +191,7 @@ http://server-d.normielista.stream/a501/mono.m3u8
 http://server-d.normielista.stream/a451/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES",Espn5 Sur
 http://server-d.normielista.stream/DSN_ESPN5_SUR_1117/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0507" tvg-logo="https://normielista.online/Logos/telehit.png",Telehit
+#EXTINF:-1 group-title="MUSICA" tvg-id="0507" tvg-logo="https://normielista.online/Logos/telehit.png",Telehit
 http://server-d.normielista.stream/a404/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/tnt_sports_premium.png",Tnt Sports Premium Argentina
 http://server-d.normielista.stream/WBD_TNT_SPORTS_PREMIUM_ARGENTINA_1102/mono.m3u8
@@ -199,11 +199,11 @@ http://server-d.normielista.stream/WBD_TNT_SPORTS_PREMIUM_ARGENTINA_1102/mono.m3
 http://server-d.normielista.stream/a466/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0710" tvg-logo="https://normielista.online/Logos/hola_tv.png",¡Hola TV!
 http://server-d.normielista.stream/a455/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0538" tvg-logo="https://normielista.online/Logos/claro_musica.png",Claro Música Sin Limites
+#EXTINF:-1 group-title="MUSICA" tvg-id="0538" tvg-logo="https://normielista.online/Logos/claro_musica.png",Claro Musica Sin Limites
 http://server-d.normielista.stream/a412/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/discovery_turbo.png",Discovery Turbo
 http://server-d.normielista.stream/WBD_DISCOVERY_TURBO_1142/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://normielista.online/Logos/htv.png",MusicTOP
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://normielista.online/Logos/htv.png",MusicTOP
 http://server-d.normielista.stream/a414/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/discovery_turbo.png",Discovery Turbo
 http://server-d.normielista.stream/WBD_DISCOVERY_TURBO_1142/mono.m3u8
@@ -269,19 +269,19 @@ http://server-d.normielista.stream/MEDIAPRO_FOX_SPORTS-2_ARGENTINA_1135/mono.m3u
 http://server-d.normielista.stream/MEDIAPRO_FOX_SPORTS-3_ARGENTINA_1136/mono.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-id="0324" tvg-logo="https://normielista.online/Logos/cartoonito.png",Cartoonito
 http://server-d.normielista.stream/a183/mono.m3u8
-#EXTINF:-1 group-title="MUNDOS" tvg-id="0206" tvg-logo="https://normielista.online/Logos/france24_espanol.png",France 24 en Español
+#EXTINF:-1 group-title="MUNDOS" tvg-id="0206" tvg-logo="https://normielista.online/Logos/france24_espanol.png",France 24 en Espanol
 http://server-d.normielista.stream/a503/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://normielista.online/Logos/golf_channel.png",Golf Channel
 http://server-d.normielista.stream/WBD_GOLF_CHANNEL_1140/mono.m3u8
 #EXTINF:-1 group-title="MUNDOS" tvg-id="0643" tvg-logo="https://normielista.online/Logos/hispantv.png",HispanTV
 http://server-d.normielista.stream/a510/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0504" tvg-logo="https://normielista.online/Logos/htv.png",HTV
+#EXTINF:-1 group-title="MUSICA" tvg-id="0504" tvg-logo="https://normielista.online/Logos/htv.png",HTV
 http://server-d.normielista.stream/a406/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0604" tvg-logo="https://normielista.online/Logos/id.png",Discovery Investigation
 http://server-d.normielista.stream/a458/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0633" tvg-logo="https://normielista.online/Logos/ivc.png",IVC
 http://server-d.normielista.stream/a475/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-id="0526" tvg-logo="https://normielista.online/Logos/karavana_tv.png",Karavana TV
+#EXTINF:-1 group-title="MUSICA" tvg-id="0526" tvg-logo="https://normielista.online/Logos/karavana_tv.png",Karavana TV
 http://server-d.normielista.stream/a419/mono.m3u8
 #EXTINF:-1 group-title="OTROS",La Red
 http://server-d.normielista.stream/ANATEL_LA-RED_1004/mono.m3u8
@@ -325,9 +325,9 @@ http://server-d.normielista.stream/TORNEOS_TYC_SPORTS_LATAM_1130/mono.m3u8
 http://server-d.normielista.stream/UNIVERSIDAD_DE_CHILE_1034/mono.m3u8
 #EXTINF:-1 group-title="NACIONALES",Ucv
 http://server-d.normielista.stream/MEDIA-23_UCV_1031/mono.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="0616" tvg-logo="https://normielista.online/Logos/univision.png",Univisión Latinoamérica
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="0616" tvg-logo="https://normielista.online/Logos/univision.png",Univision Latinoamerica
 http://server-d.normielista.stream/a467/mono.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-id="0112" tvg-logo="https://normielista.online/Logos/viax.png",Vía X
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="0112" tvg-logo="https://normielista.online/Logos/viax.png",Via X
 http://server-d.normielista.stream/a465/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="0603" tvg-logo="https://normielista.online/Logos/hgtv.png",HGTV
 http://server-d.normielista.stream/a469/mono.m3u8
